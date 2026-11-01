@@ -11,7 +11,6 @@ The hash is the first 12 hex characters of the SHA-256 of the English sentence t
 its own English hashes the same, so a pack never shows a translation of a sentence the build does not have.
 
 Pack version of this snapshot: 2026.11.01.1132. The apps fetch packs from getcadcraft.com; this repository is the open, reviewable copy.
-A few entries that name third-party services are left out of this copy.
 
 ## Drafts
 
