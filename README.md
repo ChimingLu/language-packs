@@ -80,3 +80,9 @@ that changes the translation in the layer file and leaves the hash alone.
 ## License
 
 Apache-2.0, see LICENSE.
+
+## Trademarks
+
+Product and company names in these translations (for example the file formats and programs CadCraft can exchange files with) belong to
+their owners. They are used only to say which files or programs are meant. CadCraft is not affiliated with, endorsed by or derived
+from them and contains none of their code.
