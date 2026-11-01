@@ -10,7 +10,7 @@ Layers: `core`, `studio`, `desktop`, `lib.<prefix>` (words shared by several app
 The hash is the first 12 hex characters of the SHA-256 of the English sentence the entry translates. A build only takes an entry when
 its own English hashes the same, so a pack never shows a translation of a sentence the build does not have.
 
-Pack version of this snapshot: 2026.11.01.1132. The apps fetch packs from getcadcraft.com; this repository is the open, reviewable copy.
+Pack version of this snapshot: 2026.11.01.1353 The apps fetch packs from getcadcraft.com; this repository is the open, reviewable copy.
 
 ## Drafts
 
