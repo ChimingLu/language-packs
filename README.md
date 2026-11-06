@@ -12,6 +12,15 @@ its own English hashes the same, so a pack never shows a translation of a senten
 
 Pack version of this snapshot: 2026.11.01.1353 The apps fetch packs from getcadcraft.com; this repository is the open, reviewable copy.
 
+## Repository relationships
+
+Where these layers are consumed:
+
+- App repos (for example `bimcraft`): `app.<slug>` and `addon.<id>` layers.
+- `studio` repo: the hub/UI language layers when composing a suite.
+- `desktop-shell` repo: desktop-specific `desktop.*` strings in shell surfaces.
+- `addons` repo: add-on authors should keep their own source strings stable so packs can track hash changes.
+
 ## Drafts
 
 Most translations are machine-made drafts that native speakers have not reviewed yet, and the newest languages
